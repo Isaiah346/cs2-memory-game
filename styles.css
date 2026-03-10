@@ -10,7 +10,7 @@ h1 {
 
 .card {
     background-color: cornflowerblue;
-    color: white;
+    color: cornflowerblue;
     width: 180px;
     height: 180px;
     border-radius: 30px;
@@ -30,3 +30,5 @@ h1 {
     justify-content: space-around;
     margin: 20px;
 }
+
+
